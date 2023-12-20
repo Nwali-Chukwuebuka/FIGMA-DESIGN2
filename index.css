@@ -228,13 +228,13 @@ input {
 .question-mark{
     display: inline-block;
     position: relative;
-    top: 110px;
+    top: 125px;
     right: 360px;
 }
 
 .need-any-help {
     position: relative;
-    top: 66px;
+    top: 80px;
     left: 110px;
     font-size: 14px;
     font-weight: bold;
@@ -245,8 +245,8 @@ input {
 
 .power {
     position: relative;
-    top: 60px;
-    left: 190px;
+    top: 85px;
+    left: 200px;
     background-color: #566473;
     border: 1px solid transparent;
     padding: 0;
